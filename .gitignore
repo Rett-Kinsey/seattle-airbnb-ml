@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local datasets
+data/*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
