@@ -221,6 +221,9 @@ __marimo__/
 
 # Local datasets
 data/*.csv
+data/processed/
+*.parquet
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
