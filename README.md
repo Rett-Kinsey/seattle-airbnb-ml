@@ -8,9 +8,11 @@ Team project investigating Seattle Airbnb listings, price and calendar dynamics,
 
 ---
 
-## Workstreams
+## Workstreams & Team Resources
 
-All deliverables, milestone statuses, and task assignments are tracked in the [Team Tracker](https://docs.google.com/spreadsheets/d/1ZTmUPH1ONStH2NsUM6POgBloIrgm4OMDAr7k1J_NNrQ/edit) as the team's Single Source of Truth.
+- **Team Tracker (Tasks & Milestones):** [Google Sheets Team Tracker](https://docs.google.com/spreadsheets/d/1ZTmUPH1ONStH2NsUM6POgBloIrgm4OMDAr7k1J_NNrQ/edit) (Single Source of Truth for task assignments and deliverables)
+- **Shared Data Repository:** [Team Google Drive Project Folder](https://drive.google.com/drive/folders/10ERrXETxYL9nknCJd9Ar7y88v1bNHgeq) (central repository hosting all raw datasets and processed integrated datasets)
+- **Code Repository:** [GitHub seattle-airbnb-ml](https://github.com/duskat/seattle-airbnb-ml)
 
 | Member | Area |
 | --- | --- |
@@ -55,11 +57,11 @@ seattle-airbnb-ml/
 
 ## Data Access & Shared Team Storage
 
-Both the **5 raw CSV files** (`data/*.csv`) and the **3 processed CSV files** (`data/processed/*.csv`) are excluded from Git via `.gitignore` due to file size (~120 MB in `data/processed/`).
+Both the **5 raw CSV files** (`data/*.csv`) and the **3 processed CSV files** (`data/processed/*.csv`) are excluded from Git via `.gitignore` due to file size (~120 MB in `data/processed/`). All project data files are hosted in the **[Shared Team Google Drive Data Repository](https://drive.google.com/drive/folders/10ERrXETxYL9nknCJd9Ar7y88v1bNHgeq)**.
 
 Team members can obtain the processed datasets as follows:
-1. **Generate Locally from Raw CSVs (Available Immediately):** Download the 5 original CSV files from the [team Google Drive project folder](https://drive.google.com/drive/folders/10ERrXETxYL9nknCJd9Ar7y88v1bNHgeq) into `data/` and execute [`notebooks/02_data_cleaning_integration.ipynb`](notebooks/02_data_cleaning_integration.ipynb) to generate `data/processed/listings_clean.csv`, `data/processed/calendar_clean.csv`, and `data/processed/reviews_clean.csv`.
-2. **Download Processed CSVs from Shared Google Drive (Upload Pending):** Direct upload of the 3 processed CSV files (`listings_clean.csv`, `calendar_clean.csv`, `reviews_clean.csv`) to the [team Google Drive project folder](https://drive.google.com/drive/folders/10ERrXETxYL9nknCJd9Ar7y88v1bNHgeq) is pending as the final step of D09 handoff.
+1. **Download from Shared Google Drive (Recommended):** Download the 3 processed CSV files (`listings_clean.csv`, `calendar_clean.csv`, `reviews_clean.csv`) directly from the [team Google Drive project folder](https://drive.google.com/drive/folders/10ERrXETxYL9nknCJd9Ar7y88v1bNHgeq) and place them into `data/processed/`.
+2. **Generate Locally from Raw CSVs:** Alternatively, download the 5 raw CSV files from the [team Google Drive project folder](https://drive.google.com/drive/folders/10ERrXETxYL9nknCJd9Ar7y88v1bNHgeq) into `data/` and execute [`notebooks/02_data_cleaning_integration.ipynb`](notebooks/02_data_cleaning_integration.ipynb) to generate `data/processed/listings_clean.csv`, `data/processed/calendar_clean.csv`, and `data/processed/reviews_clean.csv`.
 
 See [`data/README.md`](data/README.md) for the complete **Dictionary of Added Features**, **Type Restoration Loader Code** (which runs from the project root directory `seattle-airbnb-ml/`, with an automatic fallback when executed from `notebooks/`), and **Workstream Handoff Notes** for Marvin Pearson and Rett Kinsey.
 
