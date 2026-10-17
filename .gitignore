@@ -227,3 +227,6 @@ data/processed/
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
+# Internal project issues log
+project_issues_and_obstacles_log.md
+
