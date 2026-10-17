@@ -1,12 +1,10 @@
 # Data Directory & Team Handoff Specification
 
-Both raw CSV inputs (`data/*.csv`) and processed integrated datasets (`data/processed/*.csv`) are excluded from Git version control via `.gitignore`.
+Both raw CSV inputs (`data/*.csv`) and processed integrated datasets (`data/processed/*.csv`) are excluded from Git version control via `.gitignore`. All dataset files are hosted in the **[Shared Team Google Drive Data Repository](https://drive.google.com/drive/folders/10ERrXETxYL9nknCJd9Ar7y88v1bNHgeq)**.
 
 To access the data locally:
-1. **Raw Source CSVs (`data/`):** Available in the [team Google Drive project folder](https://drive.google.com/drive/folders/10ERrXETxYL9nknCJd9Ar7y88v1bNHgeq). Copy all 5 original CSV files into `data/`.
-2. **Processed Integrated CSVs (`data/processed/`):**
-   - **Local Generation (Available Immediately):** With the 5 raw CSVs in `data/`, execute [`notebooks/02_data_cleaning_integration.ipynb`](../notebooks/02_data_cleaning_integration.ipynb) to generate and verify all three files in `data/processed/`.
-   - **Shared Google Drive Folder (Upload Pending):** Upload of the 3 processed CSV files (`listings_clean.csv`, `calendar_clean.csv`, `reviews_clean.csv`) to the [team Google Drive project folder](https://drive.google.com/drive/folders/10ERrXETxYL9nknCJd9Ar7y88v1bNHgeq) is pending as the final step of D09 handoff.
+1. **Direct Download from Shared Storage (Recommended):** Download the 3 processed CSV files (`listings_clean.csv`, `calendar_clean.csv`, `reviews_clean.csv`) from the [team Google Drive project folder](https://drive.google.com/drive/folders/10ERrXETxYL9nknCJd9Ar7y88v1bNHgeq) into `data/processed/`.
+2. **Local Generation from Raw CSVs:** Download the 5 original CSV files from the [team Google Drive project folder](https://drive.google.com/drive/folders/10ERrXETxYL9nknCJd9Ar7y88v1bNHgeq) into `data/` and execute [`notebooks/02_data_cleaning_integration.ipynb`](../notebooks/02_data_cleaning_integration.ipynb) to generate and verify all three files in `data/processed/`.
 
 ---
 
