@@ -1,0 +1,81 @@
+rank,neighborhood,walk_score,transit_score,bike_score,population,walkscore_url
+1,International District,98,100,83,3396,https://www.walkscore.com/WA/Seattle/International_District
+2,Belltown,98,97,76,14163,https://www.walkscore.com/WA/Seattle/Belltown
+3,First Hill,98,98,79,9294,https://www.walkscore.com/WA/Seattle/First_Hill
+4,Pioneer Square,97,100,78,4159,https://www.walkscore.com/WA/Seattle/Pioneer_Square
+5,South Lake Union,94,85,80,4054,https://www.walkscore.com/WA/Seattle/South_Lake_Union
+6,Yesler Terrace,94,98,79,4126,https://www.walkscore.com/WA/Seattle/Yesler_Terrace
+7,University District,93,82,87,26712,https://www.walkscore.com/WA/Seattle/University_District
+8,Capitol Hill,93,76,84,29310,https://www.walkscore.com/WA/Seattle/Capitol_Hill
+9,Lower Queen Anne,92,69,76,10241,https://www.walkscore.com/WA/Seattle/Lower_Queen_Anne
+10,Fremont,90,61,80,11994,https://www.walkscore.com/WA/Seattle/Fremont
+11,Atlantic,86,70,83,6449,https://www.walkscore.com/WA/Seattle/Atlantic
+12,Greenwood,85,54,81,16190,https://www.walkscore.com/WA/Seattle/Greenwood
+13,Columbia City,85,62,67,6648,https://www.walkscore.com/WA/Seattle/Columbia_City
+14,Wallingford,85,64,86,15830,https://www.walkscore.com/WA/Seattle/Wallingford
+15,Genesee,85,50,57,6070,https://www.walkscore.com/WA/Seattle/Genesee
+16,Madison Valley,85,54,72,3677,https://www.walkscore.com/WA/Seattle/Madison_Valley
+17,West Queen Anne,84,59,65,6288,https://www.walkscore.com/WA/Seattle/West_Queen_Anne
+18,Roosevelt,84,61,89,6401,https://www.walkscore.com/WA/Seattle/Roosevelt
+19,Green Lake,84,60,88,8565,https://www.walkscore.com/WA/Seattle/Green_Lake
+20,Phinney Ridge,84,50,79,9497,https://www.walkscore.com/WA/Seattle/Phinney_Ridge
+21,Hillman City,83,56,67,4482,https://www.walkscore.com/WA/Seattle/Hillman_City
+22,Eastlake,82,56,77,4426,https://www.walkscore.com/WA/Seattle/Eastlake
+23,East Queen Anne,82,68,71,8577,https://www.walkscore.com/WA/Seattle/East_Queen_Anne
+24,Whittier Heights,82,50,79,4855,https://www.walkscore.com/WA/Seattle/Whittier_Heights
+25,Madrona,80,52,77,3855,https://www.walkscore.com/WA/Seattle/Madrona
+26,Fairmount Park,80,50,63,5956,https://www.walkscore.com/WA/Seattle/Fairmount_Park
+27,Ravenna,80,62,81,11486,https://www.walkscore.com/WA/Seattle/Ravenna
+28,Brighton,78,63,74,7492,https://www.walkscore.com/WA/Seattle/Brighton
+29,North Beacon Hill,78,74,79,11513,https://www.walkscore.com/WA/Seattle/North_Beacon_Hill
+30,Crown Hill,76,52,67,4454,https://www.walkscore.com/WA/Seattle/Crown_Hill
+31,Westlake,76,71,78,1876,https://www.walkscore.com/WA/Seattle/Westlake
+32,Mount Baker,76,62,72,7430,https://www.walkscore.com/WA/Seattle/Mount_Baker
+33,Mount Baker Park,76,62,72,7430,https://www.walkscore.com/WA/Seattle/Mount_Baker_Park
+34,Bryant,75,60,84,5218,https://www.walkscore.com/WA/Seattle/Bryant
+35,Dunlap,75,57,65,5772,https://www.walkscore.com/WA/Seattle/Dunlap
+36,North College Park,74,65,75,6682,https://www.walkscore.com/WA/Seattle/North_College_Park
+37,North Queen Anne,74,61,65,10630,https://www.walkscore.com/WA/Seattle/North_Queen_Anne
+38,Leschi,73,54,73,5303,https://www.walkscore.com/WA/Seattle/Leschi
+39,Loyal Heights,73,48,81,7957,https://www.walkscore.com/WA/Seattle/Loyal_Heights
+40,Pinehurst,73,55,71,7811,https://www.walkscore.com/WA/Seattle/Pinehurst
+41,South Delridge,73,55,63,6481,https://www.walkscore.com/WA/Seattle/South_Delridge
+42,Victory Heights,72,55,58,5077,https://www.walkscore.com/WA/Seattle/Victory_Heights
+43,Maple Leaf,71,63,74,9404,https://www.walkscore.com/WA/Seattle/Maple_Leaf
+44,North Admiral,71,42,66,11729,https://www.walkscore.com/WA/Seattle/North_Admiral
+45,Portage Bay,71,72,79,1397,https://www.walkscore.com/WA/Seattle/Portage_Bay
+46,Bitter Lake,70,52,74,7853,https://www.walkscore.com/WA/Seattle/Bitter_Lake
+47,Southeast Magnolia,68,44,67,4891,https://www.walkscore.com/WA/Seattle/Southeast_Magnolia
+48,Montlake,68,57,80,4610,https://www.walkscore.com/WA/Seattle/Montlake
+49,Industrial District,68,78,78,529,https://www.walkscore.com/WA/Seattle/Industrial_District
+50,Gatewood,66,45,56,6337,https://www.walkscore.com/WA/Seattle/Gatewood
+51,Olympic Hills,66,53,71,8063,https://www.walkscore.com/WA/Seattle/Olympic_Hills
+52,Roxhill,66,52,58,4114,https://www.walkscore.com/WA/Seattle/Roxhill
+53,Seaview,65,46,54,4630,https://www.walkscore.com/WA/Seattle/Seaview
+54,Madison Park,65,35,54,4842,https://www.walkscore.com/WA/Seattle/Madison_Park
+55,Georgetown,64,49,86,1280,https://www.walkscore.com/WA/Seattle/Georgetown
+56,South Park,63,41,63,3976,https://www.walkscore.com/WA/Seattle/South_Park
+57,Beacon Hill,62,57,67,13127,https://www.walkscore.com/WA/Seattle/Beacon_Hill
+58,Mid-Beacon Hill,62,57,67,13127,https://www.walkscore.com/WA/Seattle/Mid-Beacon_Hill
+59,North Delridge,61,53,66,3596,https://www.walkscore.com/WA/Seattle/North_Delridge
+60,Lawton Park,60,42,58,8540,https://www.walkscore.com/WA/Seattle/Lawton_Park
+61,Meadowbrook,58,50,56,3320,https://www.walkscore.com/WA/Seattle/Meadowbrook
+62,Highland Park,58,48,49,6063,https://www.walkscore.com/WA/Seattle/Highland_Park
+63,Seward Park,56,44,59,6493,https://www.walkscore.com/WA/Seattle/Seward_Park
+64,Haller Lake,56,52,61,8040,https://www.walkscore.com/WA/Seattle/Haller_Lake
+65,Denny Blaine,54,45,63,921,https://www.walkscore.com/WA/Seattle/Denny_Blaine
+66,Sunset Hill,53,37,80,5412,https://www.walkscore.com/WA/Seattle/Sunset_Hill
+67,High Point,53,48,56,6849,https://www.walkscore.com/WA/Seattle/High_Point
+68,Interbay,49,49,74,1599,https://www.walkscore.com/WA/Seattle/Interbay
+69,Laurelhurst,48,60,57,4554,https://www.walkscore.com/WA/Seattle/Laurelhurst
+70,Fauntleroy,48,44,32,5200,https://www.walkscore.com/WA/Seattle/Fauntleroy
+71,Briarcliff,47,33,43,5081,https://www.walkscore.com/WA/Seattle/Briarcliff
+72,Broadview,46,45,44,8011,https://www.walkscore.com/WA/Seattle/Broadview
+73,Rainier Beach,45,49,38,6533,https://www.walkscore.com/WA/Seattle/Rainier_Beach
+74,South Beacon Hill,44,59,47,5141,https://www.walkscore.com/WA/Seattle/South_Beacon_Hill
+75,Windermere,44,55,64,4635,https://www.walkscore.com/WA/Seattle/Windermere
+76,View Ridge,40,49,67,5246,https://www.walkscore.com/WA/Seattle/View_Ridge
+77,Riverview,39,45,56,3861,https://www.walkscore.com/WA/Seattle/Riverview
+78,Arbor Heights,38,42,28,5056,https://www.walkscore.com/WA/Seattle/Arbor_Heights
+79,Matthews Beach,33,43,51,6225,https://www.walkscore.com/WA/Seattle/Matthews_Beach
+80,Rainier View,22,43,23,4081,https://www.walkscore.com/WA/Seattle/Rainier_View
